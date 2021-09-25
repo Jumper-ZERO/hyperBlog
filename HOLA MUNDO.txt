@@ -1,0 +1,5 @@
+HOLA MUNDO
+
+Este es un ejemplo de texto que tengo para que el programa
+
+de git de curos de platzi de git y github de Freddy Vega
